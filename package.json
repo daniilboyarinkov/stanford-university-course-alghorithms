@@ -1,0 +1,20 @@
+{
+  "name": "stanford-university-course-alghorithms",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.1.1",
+    "jest": "^29.1.2",
+    "ts-jest": "^29.0.3"
+  }
+}
